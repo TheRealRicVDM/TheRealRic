@@ -1,7 +1,7 @@
-  Hi, I’m @TheRealRicVDM
+ - Hi, I’m @TheRealRic
   
-  I’m interested in web develpment.
-  I’m currently learning JavaScript.
+ - I’m interested in web develpment.
+ - I’m currently learning JavaScript.
   
   How to reach me:
 - therealricvannemerwe@icloud.com
